@@ -5,7 +5,3 @@ plugins {
 repositories {
     mavenCentral()
 }
-
-application {
-    mainClass = "src.java.Main"
-}
