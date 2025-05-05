@@ -1,11 +1,8 @@
 plugins {
+    id("application")
     id("java")
 }
 
 repositories {
     mavenCentral()
-}
-
-application {
-    mainClass = "src.java.Main"
 }
